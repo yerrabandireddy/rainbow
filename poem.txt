@@ -1,5 +1,5 @@
-The rainbow
- -p
+The rainbow and unicorn
+ -p -unicorn
 -g
 -y
 -w
