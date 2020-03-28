@@ -1,0 +1,4 @@
+The rainbow
+ -p
+-g
+-y
