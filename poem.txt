@@ -4,3 +4,4 @@ The rainbow and unicorn
 -y
 -w
 -o
+-indigo
