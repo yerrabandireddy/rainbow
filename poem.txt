@@ -2,3 +2,4 @@ The rainbow
  -p
 -g
 -y
+-w
